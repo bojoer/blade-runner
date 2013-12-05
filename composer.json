@@ -1,0 +1,20 @@
+{
+    "name": "pyrocms/blade-runner",
+    "description": "",
+    "authors": [
+        {
+            "name": "Osvaldo Brignoni",
+            "email": "obrignoni@pyrocms.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Pyrocms\\BladeRunner": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
